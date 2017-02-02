@@ -1,9 +1,13 @@
-##Siraj's intro to Deep Learning##
+##Siraj's intro to Deep Learning
+
+###Week 1 
 
 Machine Learning
-[Lecture video](https://www.youtube.com/watch?v=QN1ZwKszguE)
+
+[Linear Regressino Lecture video](https://www.youtube.com/watch?v=QN1ZwKszguE)
 
 Classes of Machine learning
+   
     1. Supervised
         Will receive feedback at every step
     2. Unsupervised
