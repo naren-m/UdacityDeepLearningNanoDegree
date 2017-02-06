@@ -1,10 +1,10 @@
-##Siraj's intro to Deep Learning
+##Intro to Deep Learning
 
 ###Week 1 
 
 Machine Learning
 
-[Linear Regressino Lecture video](https://www.youtube.com/watch?v=QN1ZwKszguE)
+[Linear Regression Lecture video](https://www.youtube.com/watch?v=QN1ZwKszguE)
 
 Classes of Machine learning
    
