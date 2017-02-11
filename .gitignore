@@ -1,2 +1,4 @@
 .idea
 /UdacityDeepLearningNanoDegree.iml
+.ipynb_checkpoints/*
+Icon*
