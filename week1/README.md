@@ -18,7 +18,7 @@ Classes of Machine learning
 
 
 1. [Introduction to pandas in 10 Minutes](http://pandas.pydata.org/pandas-docs/stable/10min.html#min)
-2. [Tensor flow in !0 Minutes](https://www.youtube.com/watch?v=2FmcHiLCwTU&t=84s)
+2. [Tensor flow in 5 Minutes](https://www.youtube.com/watch?v=2FmcHiLCwTU&t=84s)
 3. [Stanford TensorFlow Tutorial](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 4. [TensorFlow Examples on GitHub](https://github.com/aymericdamien/TensorFlow-Examples)
 5. [MNIST For ML Beginners](https://www.tensorflow.org/tutorials/mnist/beginners/)
