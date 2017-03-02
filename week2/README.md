@@ -9,6 +9,7 @@ Backpropagation is fundamental to deep learning.
 * Also from Andrej Karpathy, [a lecture from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 
 
+
 **Quick intro resources**
 
 1. [Introduction to pandas in 10 Minutes](http://pandas.pydata.org/pandas-docs/stable/10min.html#min)
