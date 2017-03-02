@@ -1,13 +1,37 @@
+<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+
 ##Intro to Deep Learning
 
 ###Week 2 
+
+
+To show math formula in README.md include the script tag in that file.
+```bash
+[//]: # (Comment) <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+```
+##### References for math formulae writing in Readme
+
+* [Cheat sheet for math formulae](http://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/) 
+* [MathJax basic tutorial and quick reference](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+* [Math on GitHub Pages](http://g14n.info/2014/09/math-on-github-pages/)
+
+#### Example math formulae
+
+
+you can use an formula 
+
+$$\forall x \in R$$ 
+
+Cross Entropy formula.
+
+$$ H(y,\hat{y}) = \sum_i y_i \log \frac{1}{\hat{y_i}} = -\sum_i y_i \log \hat{y_i} $$
+
 
 ####Further reading
 
 Backpropagation is fundamental to deep learning.
 * From Andrej Karpathy: [Yes, you should understand backprop](https://ipython.org/ipython-doc/1/interactive/nbconvert.html)
 * Also from Andrej Karpathy, [a lecture from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
-
 
 
 **Quick intro resources**
