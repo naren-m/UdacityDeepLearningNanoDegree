@@ -4,11 +4,6 @@
 
 ###Week 2 
 
-
-To show math formula in README.md include the script tag in that file.
-```bash
-[//]: # (Comment) <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
-```
 ##### References for math formulae writing in Readme
 
 * [Cheat sheet for math formulae](http://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/) 
