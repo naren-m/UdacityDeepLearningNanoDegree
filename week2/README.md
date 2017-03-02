@@ -8,63 +8,7 @@ Backpropagation is fundamental to deep learning.
 * From Andrej Karpathy: [Yes, you should understand backprop](https://ipython.org/ipython-doc/1/interactive/nbconvert.html)
 * Also from Andrej Karpathy, [a lecture from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mi>H</mi>
-  <mo stretchy="false">(</mo>
-  <mi>y</mi>
-  <mo>,</mo>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mover>
-      <mi>y</mi>
-      <mo stretchy="false">&#x005E;<!-- ^ --></mo>
-    </mover>
-  </mrow>
-  <mo stretchy="false">)</mo>
-  <mo>=</mo>
-  <munder>
-    <mo>&#x2211;<!-- ∑ --></mo>
-    <mi>i</mi>
-  </munder>
-  <msub>
-    <mi>y</mi>
-    <mi>i</mi>
-  </msub>
-  <mi>log</mi>
-  <mo>&#x2061;<!-- ⁡ --></mo>
-  <mfrac>
-    <mn>1</mn>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mover>
-        <msub>
-          <mi>y</mi>
-          <mi>i</mi>
-        </msub>
-        <mo stretchy="false">&#x005E;<!-- ^ --></mo>
-      </mover>
-    </mrow>
-  </mfrac>
-  <mo>=</mo>
-  <mo>&#x2212;<!-- − --></mo>
-  <munder>
-    <mo>&#x2211;<!-- ∑ --></mo>
-    <mi>i</mi>
-  </munder>
-  <msub>
-    <mi>y</mi>
-    <mi>i</mi>
-  </msub>
-  <mi>log</mi>
-  <mo>&#x2061;<!-- ⁡ --></mo>
-  <mrow class="MJX-TeXAtom-ORD">
-    <mover>
-      <msub>
-        <mi>y</mi>
-        <mi>i</mi>
-      </msub>
-      <mo stretchy="false">&#x005E;<!-- ^ --></mo>
-    </mover>
-  </mrow>
-</math>
+
 
 **Quick intro resources**
 
