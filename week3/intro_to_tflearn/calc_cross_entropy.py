@@ -1,11 +1,3 @@
-
-Cross Entropy formula
-
-![alt tag](../img/CrossEntropy.png)
-
-Calculating cross entropy in python
-
-```python
 import numpy as np
 
 y =  [0, 0, 0, 1, 0]
@@ -19,4 +11,3 @@ for i in range(len(y)):
 
 cross_entropy = cross_entropy * -1
 print("cross_entropy", cross_entropy)
-```
