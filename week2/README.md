@@ -2,6 +2,9 @@
 
 ###Week 2 
 
+\displaystyle\sum_{i=1}^{10} t_i
+
+\sum_{i=1}^{10} t_i
 
 [Converting notebook to script, html, markdown etc., ](https://ipython.org/ipython-doc/1/interactive/nbconvert.html)
 
