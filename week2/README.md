@@ -2,10 +2,8 @@
 
 ###Week 2 
 
-#### Neural Networks
 
 **Quick intro resources**
-
 
 1. [Introduction to pandas in 10 Minutes](http://pandas.pydata.org/pandas-docs/stable/10min.html#min)
 2. [Tensor flow in 5 Minutes](https://www.youtube.com/watch?v=2FmcHiLCwTU&t=84s)
