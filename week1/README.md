@@ -2,6 +2,8 @@
 
 ###Week 1 
 
+Good read for overview of all the components of Deep Learning, [Cheat sheet](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460#.8nzu82lgg)
+
 ####Machine Learning
 
 [Linear Regression Lecture video](https://www.youtube.com/watch?v=QN1ZwKszguE)

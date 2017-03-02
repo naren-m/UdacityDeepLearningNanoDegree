@@ -2,8 +2,12 @@
 
 ###Week 2 
 
+####Further reading
 
-[Converting notebook to script, html, markdown etc., ](https://ipython.org/ipython-doc/1/interactive/nbconvert.html)
+Backpropagation is fundamental to deep learning.
+* From Andrej Karpathy: [Yes, you should understand backprop](https://ipython.org/ipython-doc/1/interactive/nbconvert.html)
+* Also from Andrej Karpathy, [a lecture from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
+
 
 **Quick intro resources**
 
