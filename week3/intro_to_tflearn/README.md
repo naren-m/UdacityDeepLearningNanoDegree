@@ -19,4 +19,20 @@ for i in range(len(y)):
 
 cross_entropy = cross_entropy * -1
 print("cross_entropy", cross_entropy)
+# cross_entropy 2.30258509299
 ```
+
+Conda env for TFlearn
+
+conda create -n tflearn python=3.5
+
+source activate tflearn
+
+
+conda install numpy pandas jupyter notebook matplotlib
+
+
+conda install scipy h5py
+
+pip install tensorflow
+
