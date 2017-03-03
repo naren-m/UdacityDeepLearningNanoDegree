@@ -5,7 +5,7 @@
 ####Further reading
 
 Backpropagation is fundamental to deep learning.
-* From Andrej Karpathy: [Yes, you should understand backprop](https://ipython.org/ipython-doc/1/interactive/nbconvert.html)
+* From Andrej Karpathy: [Yes, you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.z9ldbfwxp)
 * Also from Andrej Karpathy, [a lecture from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 
 
