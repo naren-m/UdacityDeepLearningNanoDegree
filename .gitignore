@@ -3,4 +3,6 @@
 .ipynb_checkpoints/*
 Icon*
 week1/DLND-your-first-network/.ipynb_checkpoints/
-week3/sentiment_analysis_with_andrew_trask/.ipynb_checkpoints/
+week3/*/.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+/week3/intro_to_tflearn/sentiment-analysis/.ipynb_checkpoints/
