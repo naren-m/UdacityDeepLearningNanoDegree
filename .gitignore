@@ -1,6 +1,7 @@
 .idea
 /UdacityDeepLearningNanoDegree.iml
 .ipynb_checkpoints
+.DS_Store
 Icon*
 week1/DLND-your-first-network/.ipynb_checkpoints/
 week3/*/.ipynb_checkpoints/
