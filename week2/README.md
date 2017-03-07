@@ -1,16 +1,14 @@
-##Intro to Deep Learning
+# Week 2
 
-###Week 2 
+## Intro to Deep Learning
 
-####Further reading
+### Further reading
 
 Backpropagation is fundamental to deep learning.
 * From Andrej Karpathy: [Yes, you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.z9ldbfwxp)
 * Also from Andrej Karpathy, [a lecture from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 
-
-
-**Quick intro resources**
+### Quick intro resources
 
 1. [Introduction to pandas in 10 Minutes](http://pandas.pydata.org/pandas-docs/stable/10min.html#min)
 2. [Tensor flow in 5 Minutes](https://www.youtube.com/watch?v=2FmcHiLCwTU&t=84s)

@@ -17,4 +17,6 @@ Regression and Classification
 
 How do we find a model that generalizes well?
 
-    To do this we 
+    To do this we
+
+    $$ c^2 = a^2 + b^2 $$
